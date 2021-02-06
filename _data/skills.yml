@@ -11,3 +11,7 @@
  # Workmanship
  -skill: Work Ethic
   description: Typically among the first to get to work, stays the longest, and is dedicated to the mission.
+  
+  # Another
+  -skill: another skill
+  description: here is something else.
